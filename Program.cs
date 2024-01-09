@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Console.WriteLine("Hello, World!");
+class Sample
+{
+    static void Main()
+    {
+        Console.WriteLine("Oki World");
+    }
+}
